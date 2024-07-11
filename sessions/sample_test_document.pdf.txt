@@ -1,0 +1,8 @@
+PDF Chatbot API Test Document
+This is a sample PDF document created to test the PDF Chatbot API.
+You can use this document to upload and query the content using the API.
+Here are some example lines of text:
+1. Line one of the sample text.
+2. Line two of the sample text.
+3. Line three of the sample text.
+Thank you for testing the API!
