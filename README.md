@@ -159,6 +159,9 @@ docker ps
 **Deployment Completed Successfully! 🎉**
 
 -------------------- Extra ----------------------------------
+
+**Admin Setup**
+
 First, create an admin user (superuser):
 Run the following command to create a superuser:
 
@@ -167,6 +170,7 @@ clear && docker compose run --rm app sh -c "python manage.py createsuperuser"
 
 Login to the admin panel and complete the following setup:
 
+**Changes in Admmin**
 In the "Recording Policy Days" section, add a new entry for Recording Policy Days.
 
 Then, go to the Device Types section and add the following:
